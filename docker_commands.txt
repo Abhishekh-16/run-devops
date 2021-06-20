@@ -1,0 +1,7 @@
+To push an image into docker registry - 
+
+1. docker login
+
+2. docker tag 101e4 abhishekh16/shoppingapp
+
+3. docker push abhishekh16/shoppingapp:latest
